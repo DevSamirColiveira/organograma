@@ -1,6 +1,6 @@
-import './Footer.css'
+import './Rodape.css'
 
-const Footer = () => {
+const Rodape = () => {
   return (<footer className="footer">
     <section>
       <ul>
@@ -26,9 +26,9 @@ const Footer = () => {
     </section>
     <section>
       <p>
-        Desenvolvido por Alura.
+        Desenvolvido por Samir na<br />aula de React - Alura ONE.
       </p>
     </section>
   </footer>)
 }
-export default Footer;
+export default Rodape;
