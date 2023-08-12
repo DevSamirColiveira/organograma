@@ -1,0 +1,9 @@
+.banner__principal {
+  /* background-color: #6278F7; cor do outro banner  */
+  background-color: #000000;
+  text-align: center;
+}
+
+.banner__principal img {
+  max-width: 100%;
+}
